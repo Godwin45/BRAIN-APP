@@ -13,7 +13,7 @@ This tumor detection app is a web-based application designed to assist in the ea
 - **User-Friendly Interface**: The app features a clean and intuitive user interface, making it accessible to medical professionals and researchers with varying levels of technical expertise.
 
 ## Deployment
-The app has been deployed on AWS (Amazon Web Services) to ensure reliable and scalable performance. It can be accessed using the following URL: [[http://52.91.61.80:8080/](http://44.212.64.183:8080/)](http://44.212.64.183:8080/). The app is hosted on a cloud server, providing accessibility from any internet-connected device.
+The app has been deployed on AWS (Amazon Web Services) to ensure reliable and scalable performance. It can be accessed using the following URL: [[[http://52.91.61.80:8080/](http://44.212.64.183:8080/)](http://44.212.64.183:8080/)](http://44.212.64.183:8080/). The app is hosted on a cloud server, providing accessibility from any internet-connected device.
 
 ## Usage Instructions
 1. Access the app using the provided URL: [http://44.212.64.183:8080/](http://44.212.64.183:8080/).
